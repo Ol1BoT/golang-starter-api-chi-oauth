@@ -8,8 +8,8 @@ Web server starter using Chi as the router
 
 ### TODO
 
-- Middleware to confirm authentication
 - JWT setup
+- Middleware to confirm authentication
 - Azure AD OAuth Provider
 - Maybe OAuth Provders...
 - Possibly add GORM w/ User/Account table
